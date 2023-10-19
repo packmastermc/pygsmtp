@@ -20,10 +20,10 @@ def open_directions():
     webbrowser.open("pastebin.com/nptEJ303")
 
 root = tk.Tk()
-root.title("pygsmtp v1.1")
+root.title("pygsmtp v1.1.0")
 root.geometry("640x480")
 
-title_label = tk.Label(root, text="pygsmtp v1.1", font=("Verdana", 20))
+title_label = tk.Label(root, text="pygsmtp v1.1.0", font=("Verdana", 20))
 title_label.pack(pady=8)
 credits = tk.Label(root, text="made by packmastermc", font=("Verdana", 10))
 credits.pack(padx=40,pady=8, anchor="sw")
