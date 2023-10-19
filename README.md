@@ -1,4 +1,4 @@
-# pygsmtp v1.1
+# pygsmtp v1.1.0
 
 Read Here: https://pastebin.com/nptEJ303
 
