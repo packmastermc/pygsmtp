@@ -1,4 +1,4 @@
-# pygsmtp v1.1.0
+# pygsmtp v1.1.2 - major release
 
 Read Here: https://pastebin.com/nptEJ303
 
