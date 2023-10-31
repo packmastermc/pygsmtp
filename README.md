@@ -5,5 +5,5 @@
 <p>2. Fixed glitch where title bar would still say v1.1.0</p>
 <p>---------------------------------------------------------------</p>
 Read Here: https://pastebin.com/nptEJ303
-
-THIS SOFTWARE WAS CREATED ONLY FOR EDUCATIONAL PURPOSES ONLY. PLEASE DO NOT USE THIS SOFTWARE TO PERFORM ANY ILLEGAL OR MALICIOUS ACTIONS.
+<h3></h3>
+<p>Please send any bugs or requested features at packmastermc@gmail.com, or Discord: ihatecolor.</p>
