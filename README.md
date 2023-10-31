@@ -6,4 +6,4 @@
 <p>---------------------------------------------------------------</p>
 Read Here: https://pastebin.com/nptEJ303
 <h3></h3>
-<p>Please send any bugs or requested features at packmastermc@gmail.com, or Discord: ihatecolor.</p>
+<p>Please send any bug reports or requested features at packmastermc@gmail.com, or Discord: ihatecolor.</p>
